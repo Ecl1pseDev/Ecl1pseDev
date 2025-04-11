@@ -10,9 +10,7 @@ const developer = {
     backEnd: ['Node.js', 'Express'],
     databases: ['MongoDB', 'PostgreSQL'],
     devOps: ['Linux', 'Arch Linux', 'Docker', 'Git']
-  },
-  currentlyLearning: ['Advanced System Design', 'Cloud Computing'],
-  funFact: 'I can navigate through Arch Linux with my eyes closed! 🐧'
+  }
 };
 ```
 
@@ -27,8 +25,8 @@ const developer = {
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecl1pseDev&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecl1pseDev&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecl1pseDev&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecl1pseDev&layout=compact&theme=default&hide_border=true)
 
 ## 🌈 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
