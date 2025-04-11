@@ -6,7 +6,7 @@ const developer = {
   name: 'Ecl1pseDev',
   code: ['JavaScript', 'Python', 'HTML', 'CSS', 'Node.js'],
   technologies: {
-    frontEnd: ['React', 'Vue', 'HTML5', 'CSS3'],
+    frontEnd: ['HTML5', 'CSS3'],
     backEnd: ['Node.js', 'Express'],
     databases: ['MongoDB', 'PostgreSQL'],
     devOps: ['Linux', 'Docker', 'Git']
