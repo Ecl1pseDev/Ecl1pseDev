@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ecl1pseDev
 
-<!--
-**Ecl1pseDev/Ecl1pseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+```typescript
+const developer = {
+  name: 'Ecl1pseDev',
+  code: ['JavaScript', 'Python', 'HTML', 'CSS', 'Node.js'],
+  technologies: {
+    frontEnd: ['React', 'Vue', 'HTML5', 'CSS3'],
+    backEnd: ['Node.js', 'Express'],
+    databases: ['MongoDB', 'PostgreSQL'],
+    devOps: ['Linux', 'Arch Linux', 'Docker', 'Git']
+  },
+  currentlyLearning: ['Advanced System Design', 'Cloud Computing'],
+  funFact: 'I can navigate through Arch Linux with my eyes closed! 🐧'
+};
+```
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecl1pseDev&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecl1pseDev&layout=compact&theme=radical&hide_border=true)
+
+## 🌈 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+⚡ **Turning coffee into code, one commit at a time.**
