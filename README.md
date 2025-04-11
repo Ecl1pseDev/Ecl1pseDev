@@ -9,7 +9,7 @@ const developer = {
     frontEnd: ['React', 'Vue', 'HTML5', 'CSS3'],
     backEnd: ['Node.js', 'Express'],
     databases: ['MongoDB', 'PostgreSQL'],
-    devOps: ['Linux', 'Arch Linux', 'Docker', 'Git']
+    devOps: ['Linux', 'Docker', 'Git']
   }
 };
 ```
