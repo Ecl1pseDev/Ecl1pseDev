@@ -14,19 +14,16 @@ const developer = {
 };
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecl1pseDev&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecl1pseDev&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ecl1pseDev&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecl1pseDev&layout=compact&theme=dark&hide_border=true)
 
 ## 🌈 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
